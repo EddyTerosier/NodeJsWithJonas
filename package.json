@@ -1,0 +1,22 @@
+{
+  "name": "nodejswithjonas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyTerosier/NodeJsWithJonas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddyTerosier/NodeJsWithJonas/issues"
+  },
+  "homepage": "https://github.com/EddyTerosier/NodeJsWithJonas#readme",
+  "dependencies": {
+    "superagent": "^8.0.6"
+  }
+}
